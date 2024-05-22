@@ -9,6 +9,7 @@ while (<FILE>){
 close(FILE);
 
 print "\nBURNiNATED!!!!\n";
+print "\n...and other stuff...\n"
 
 
 exit(0);
